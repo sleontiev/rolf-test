@@ -1,0 +1,26 @@
+.postWrapper {
+  width: 1280px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.formWrapper {
+  width: 500px;
+  margin-top: 20px;
+}
+.title {
+  font-weight: bold;
+  color: blue;
+}
+
+.modelTitle {
+  color: red;
+  font-weight: bold;
+}
+
+.nameTitle {
+  font-weight: bold;
+}
+
+.timeTitle {
+  color: grey;
+}
